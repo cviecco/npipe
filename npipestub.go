@@ -1,4 +1,4 @@
-// +build !windows
+// +build darwin linux openbsd netbsd
 package npipe
 
 import (
